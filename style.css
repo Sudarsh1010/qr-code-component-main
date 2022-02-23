@@ -1,0 +1,32 @@
+body {
+  justify-content: center;
+  max-height: 100vh;
+  background-color: #d5e1ef;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  margin: 10% auto;
+  border-radius: 20px;
+  width: 320px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: #ffffff;
+}
+
+.container img {
+  margin: 15px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+/* .card h2 {
+  
+}
+*/
+.text {
+  text-align: center;
+  padding-bottom: 30px;
+}
