@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;700&display=swap");
+
 body {
   justify-content: center;
   max-height: 100vh;
@@ -22,11 +24,16 @@ body {
   background-color: #ffffff;
 }
 
-/* .card h2 {
-  
-}
-*/
 .text {
+  font-family: "Josefin Sans", sans-serif;
   text-align: center;
   padding-bottom: 30px;
+}
+
+.text h2 {
+  color: rgb(41, 41, 41);
+}
+
+.text p {
+  color: grey;
 }
